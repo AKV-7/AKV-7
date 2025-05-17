@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h2 align="left">Hi 👋! My name is Ankur Kumar Verma, and I'm an aspiring Software Engineer, currently pursuing my Integrated Btech(IT) + MBA  from ABV-IIITM Gwalior.</h2>
+<h2 align="left">Hi 👋! My name is Ankur Kumar Verma, and I'm an aspiring Software Engineer, currently pursuing an Integrated Btech+MBA from ABV-IIITM Gwalior.</h2>
 
 ###
 
@@ -11,7 +9,7 @@
 
 ###
 
-<h4 align="left">Tech Stack I use...</h4>
+<h2 align="left">Tech Stack I use...</h2>
 
 ###
 
@@ -87,7 +85,7 @@
 
 ###
 
-<h4 align="left">Contact me ...</h4>
+<h2 align="left">Contact me..</h2>
 
 ###
 
