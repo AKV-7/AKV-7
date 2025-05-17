@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Ankur Kumar Verma, and I'm an aspiring Software Engineer, currently pursuing Integrated Btech(IT) + MBA from ABV-IIITM Gwalior.</h2>
+<h2 align="left">Hello World👋! , I'm Ankur Kumar Verma, and I'm an aspiring Software Engineer:</h2>
+
+###
+
+<p align="left">🛜 currently pursuing Integrated Btech(IT) + MBA from ABV-IIITM Gwalior</p>
 
 ###
 
@@ -89,10 +93,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ankur-verma-a66271222" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -107,6 +107,10 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif"  />
 
 ###
 
