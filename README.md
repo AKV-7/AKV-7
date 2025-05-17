@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Hello World👋! , I'm Ankur Kumar Verma, and I'm an aspiring Software Engineer:</h2>
+<h2 align="left">Hello World👋! I'm Ankur Kumar Verma, an aspiring Software Engineer:</h2>
 
 ###
 
