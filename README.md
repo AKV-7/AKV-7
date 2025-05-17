@@ -1,3 +1,7 @@
+<img align="right" height="150" src="https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif"  />
+
+###
+
 <h2 align="left">Hello World👋! , I'm Ankur Kumar Verma, and I'm an aspiring Software Engineer:</h2>
 
 ###
@@ -107,10 +111,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/89/28/04/8928047925413253c6b2665a870b4846.gif"  />
 
 ###
 
