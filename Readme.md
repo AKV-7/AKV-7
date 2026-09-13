@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🛜 currently pursuing Integrated Btech(IT) + MBA from ABV-IIITM Gwalior</p>
+<p align="left">🛜 Recently completed Integrated Btech(IT) + MBA from ABV-IIITM Gwalior</p>
 
 ###
 
